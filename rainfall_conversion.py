@@ -4,4 +4,4 @@ def inches_to_mm(inches):
 	mm =-inches *2,54
 return mm
 
-#TODO: Add inches_to_m
+# add inches to cms
